@@ -21,6 +21,8 @@ You can view a live demo of this component library deployed on Vercel:
 
 [https://vercel.com/mritunjaipandeys-projects/ui-components-asssigntment](https://vercel.com/mritunjaipandeys-projects/ui-components-asssigntment)
 
+[https://www.chromatic.com/builds?appId=68a5c011655d126a40fda7e4](https://www.chromatic.com/builds?appId=68a5c011655d126a40fda7e4)
+
 ## Installation
 
 To get started with this project, clone the repository and install the dependencies:
@@ -48,7 +50,7 @@ You may also see any lint errors in the console.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.
-See the section about)](https://github.com/mritunjaipandey/ui-components-asssigntment/edit/main/README.md) for more information.
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
@@ -58,7 +60,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.
 Your app is ready to be deployed!
 
-See the section about [deployment][(https://github.com/mritunjaipandey/ui-components-asssigntment/edit/main/README.md)] for more information.
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm run eject`
 
