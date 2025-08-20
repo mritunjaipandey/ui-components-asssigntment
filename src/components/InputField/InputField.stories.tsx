@@ -117,3 +117,11 @@ export const Disabled: Story = {
     disabled: true,
   },
 };
+
+export const Password: Story = {
+  args: {
+    ...Default.args,
+    type: "password",
+    showToggleButton: true,
+  },
+};

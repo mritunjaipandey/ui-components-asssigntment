@@ -36,3 +36,16 @@ export interface DataTableProps<T> {
   selectable?: boolean;
   onRowSelect?: (selectedRows: T[]) => void;
 }
+
+// Props for Select
+export interface SelectProps {
+  label?: string;
+  options: { value: string; label: string }[];
+  value?: string;
+  onChange?: (e: React.ChangeEvent<HTMLSelectElement>) => void;
+  placeholder?: string;
+  disabled?: boolean;
+  invalid?: boolean;
+  size?: InputSize;
+  variant?: InputVariant;
+}
